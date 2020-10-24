@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**rsgrinko/rsgrinko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +11,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+hammer_and_wrench Это мой GitHub hammer_and_wrench
+Здесь можно найти исходники к проектам и примерам из блога, а также просто моим разработкам.
+
+information_source Мой сайт со статьями it-stories.ru
