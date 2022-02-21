@@ -3,7 +3,7 @@
 Здесь можно найти исходники к проектам и примерам из блога, а также просто моим разработкам.
 - ℹ️  Мой сайт со статьями <a href="https://it-stories.ru">it-stories.ru</a>
 <div align="center">
-  <a href="https://otshelnik-fm.ru/">
+  <a href="https://it-stories.ru/">
   <img alt="Place" title="Place" src="https://custom-icon-badges.herokuapp.com/badge/Tula-Russia-purple?style=for-the-badge&color=000&labelColor=264f59&logo=location&logoColor=white" />
     </a>
   <a href="https://github.com/rsgrinko?tab=repositories&sort=stargazers">
